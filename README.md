@@ -87,3 +87,20 @@ SahayakAI is an AI-driven citizen services platform designed to simplify access 
    git clone https://github.com/ADITYABHAVAR17/SahayakAI.git
    cd Sahayakai
    npm install
+
+
+
+
+components/
+│   │   ├── Navbar.jsx
+│   │   ├── Form.jsx
+│   │   ├── Loader.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Login.jsx
+│   │   ├── Register.jsx
+│   ├── services/
+│   │   ├── api.js
+│   ├── store/
+│   │   ├── index.js
+│   │   ├── userSlice.js
